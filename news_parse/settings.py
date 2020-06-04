@@ -47,6 +47,8 @@ DEFAULT_REQUEST_HEADERS = {
    'Accept-Language': 'ru',
 }
 
+IMAGES_STORE = 'images'
+
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
@@ -67,9 +69,9 @@ DEFAULT_REQUEST_HEADERS = {
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-ITEM_PIPELINES = {
-    'news_parse.pipelines.VacanciesParsePipeline': 300,
-}
+# ITEM_PIPELINES = {
+#     'news_parse.pipelines.VacanciesParsePipeline': 300,
+# }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
