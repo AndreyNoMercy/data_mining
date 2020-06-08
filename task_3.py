@@ -9,6 +9,7 @@ from pymongo import MongoClient
 import task_2_1
 
 
+
 def insert_to_mongo(*args):
     insert_list = []
     for arg in args:

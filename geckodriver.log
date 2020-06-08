@@ -1,0 +1,418 @@
+1591373344585	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zv/35y47fqx3bq_6np_kscjq3mr0000gn/T/rust_mozprofileGYvh2L"
+1591373347207	Marionette	INFO	Listening on port 60686
+1591373347257	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591373538074	Marionette	INFO	Stopped listening on port 60686
+1591373574482	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zv/35y47fqx3bq_6np_kscjq3mr0000gn/T/rust_mozprofileax0whv"
+1591373576614	Marionette	INFO	Listening on port 61695
+1591373576645	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1591373876757	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zv/35y47fqx3bq_6np_kscjq3mr0000gn/T/rust_mozprofilemEcviU"
+1591373879040	Marionette	INFO	Listening on port 62988
+1591373879104	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+1591374046552	Marionette	INFO	Stopped listening on port 61695
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+1591374655508	Marionette	INFO	Stopped listening on port 62988
+1591374689974	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zv/35y47fqx3bq_6np_kscjq3mr0000gn/T/rust_mozprofileN7qDKJ"
+1591374691975	Marionette	INFO	Listening on port 49982
+1591374692028	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://ssl.gstatic.com/support/realtime/operator/1591171251742/operatordeferred_bin_base__ru.js, line 106: uncaught exception: [object Object]
+1591374990558	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zv/35y47fqx3bq_6np_kscjq3mr0000gn/T/rust_mozprofileNQASGu"
+1591374992789	Marionette	INFO	Listening on port 51274
+1591374992803	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript error: https://ssl.gstatic.com/support/realtime/operator/1591171251742/operatordeferred_bin_base__ru.js, line 106: uncaught exception: [object Object]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591375558553	Marionette	INFO	Stopped listening on port 49982
+1591375563377	Marionette	INFO	Stopped listening on port 51274
+1591550232631	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zv/35y47fqx3bq_6np_kscjq3mr0000gn/T/rust_mozprofileOynxWt"
+1591550235527	Marionette	INFO	Listening on port 64437
+1591550235599	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 135: TypeError: currentItemPath.match(...) is null
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 154: TypeError: MutationObserver.observe: Argument 1 is not an object.
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 56: TypeError: dataBlock is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+console.error: "isValidHoverTarget rejected with unexpected reason:"
+console.error: (new TypeError("rule is undefined", "resource://devtools/client/inspector/rules/utils/utils.js", 192))
+console.error: "isValidHoverTarget rejected with unexpected reason:"
+console.error: (new TypeError("rule is undefined", "resource://devtools/client/inspector/rules/utils/utils.js", 192))
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+1591553176024	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+1591553213646	Marionette	INFO	Stopped listening on port 64437
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591553261178	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zv/35y47fqx3bq_6np_kscjq3mr0000gn/T/rust_mozprofile4JNzVA"
+1591553263289	Marionette	INFO	Listening on port 60271
+1591553263333	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 135: TypeError: currentItemPath.match(...) is null
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 154: TypeError: MutationObserver.observe: Argument 1 is not an object.
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 56: TypeError: dataBlock is null
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+console.error: "isValidHoverTarget rejected with unexpected reason:"
+console.error: (new TypeError("rule is undefined", "resource://devtools/client/inspector/rules/utils/utils.js", 186))
+console.error: "isValidHoverTarget rejected with unexpected reason:"
+console.error: (new TypeError("rule is undefined", "resource://devtools/client/inspector/rules/utils/utils.js", 186))
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 925))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:925:7
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1630:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+*************************
+A coding exception was thrown in a Promise resolution callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: this._elementStyle is null
+Full stack: _populate@resource://devtools/client/inspector/rules/rules.js:967:5
+refreshPanel/<@resource://devtools/client/inspector/rules/rules.js:903:19
+process@resource://gre/modules/Promise-backend.js:961:38
+walkerLoop@resource://gre/modules/Promise-backend.js:845:29
+scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:778:14
+
+*************************
+console.error: (new Error("Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 29))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+JavaScript error: resource://devtools/client/inspector/inspector.js, line 1539: TypeError: targetFront is null
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 135: TypeError: currentItemPath.match(...) is null
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 56: TypeError: dataBlock is null
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 154: TypeError: MutationObserver.observe: Argument 1 is not an object.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+JavaScript error: https://www.mvideo.ru/products/smartfon-huawei-p40-lite-crush-green-jny-lx1-30048481, line 87: TypeError: $ is not a function
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: https://www.mvideo.ru/products/smartfon-huawei-p40-lite-crush-green-jny-lx1-30048481 line 6 > scriptElement, line 154: TypeError: MutationObserver.observe: Argument 1 is not an object.
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 56: TypeError: dataBlock is null
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 154: TypeError: MutationObserver.observe: Argument 1 is not an object.
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 135: TypeError: currentItemPath.match(...) is null
+JavaScript error: https://www.mvideo.ru/products/smartfon-apple-iphone-11-64gb-black-mwlt2ru-a-30045357, line 87: TypeError: $ is not a function
+JavaScript error: https://www.mvideo.ru/products/smartfon-apple-iphone-11-64gb-black-mwlt2ru-a-30045357 line 6 > scriptElement, line 154: TypeError: MutationObserver.observe: Argument 1 is not an object.
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 135: TypeError: currentItemPath.match(...) is null
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 56: TypeError: dataBlock is null
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 154: TypeError: MutationObserver.observe: Argument 1 is not an object.
+JavaScript error: https://www.mvideo.ru/products/smartfon-apple-iphone-11-64gb-black-mwlt2ru-a-30045357, line 87: TypeError: $ is not a function
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: https://www.mvideo.ru/products/smartfon-apple-iphone-11-64gb-black-mwlt2ru-a-30045357 line 6 > scriptElement, line 154: TypeError: MutationObserver.observe: Argument 1 is not an object.
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 135: TypeError: currentItemPath.match(...) is null
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 56: TypeError: dataBlock is null
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 154: TypeError: MutationObserver.observe: Argument 1 is not an object.
+JavaScript error: https://www.mvideo.ru/products/naushniki-apple-airpods-w-charging-case-mv7n2ru-a-50126638, line 87: TypeError: $ is not a function
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: https://www.mvideo.ru/products/naushniki-apple-airpods-w-charging-case-mv7n2ru-a-50126638 line 6 > scriptElement, line 154: TypeError: MutationObserver.observe: Argument 1 is not an object.
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 135: TypeError: currentItemPath.match(...) is null
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 56: TypeError: dataBlock is null
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 154: TypeError: MutationObserver.observe: Argument 1 is not an object.
+1591561368262	Marionette	INFO	Stopped listening on port 60271
+Handler function threw an exception: TypeError: can't access dead object
+Stack: destroy@resource://devtools/server/actors/stylesheets.js:120:7
+destroy@resource://devtools/shared/protocol/Pool.js:189:17
+destroy@resource://devtools/shared/protocol/Actor.js:76:11
+destroy@resource://devtools/server/actors/stylesheets.js:329:38
+destroy@resource://devtools/shared/protocol/Pool.js:189:17
+_detach@resource://devtools/server/actors/targets/browsing-context.js:995:35
+exit@resource://devtools/server/actors/targets/browsing-context.js:573:10
+destroy@resource://devtools/server/actors/targets/browsing-context.js:554:10
+removeActor@resource://devtools/server/actors/common.js:63:13
+APDestroy@resource://devtools/server/actors/common.js:28:12
+onClosed/<@resource://devtools/server/devtools-server-connection.js:477:37
+onClosed@resource://devtools/server/devtools-server-connection.js:477:22
+close@resource://devtools/shared/transport/child-transport.js:62:16
+close@resource://devtools/server/devtools-server-connection.js:86:23
+onDisconnect<@resource://devtools/server/startup/frame.js:145:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 120, column: 7
+console.error: (new TypeError("can't access dead object", "resource://devtools/server/actors/stylesheets.js", 120))
+1591561389166	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zv/35y47fqx3bq_6np_kscjq3mr0000gn/T/rust_mozprofile86lHAZ"
+1591561391769	Marionette	INFO	Listening on port 61653
+1591561391845	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 135: TypeError: currentItemPath.match(...) is null
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 154: TypeError: MutationObserver.observe: Argument 1 is not an object.
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 56: TypeError: dataBlock is null
+1591561480103	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zv/35y47fqx3bq_6np_kscjq3mr0000gn/T/rust_mozprofilec9TRdZ"
+1591561482096	Marionette	INFO	Listening on port 62207
+1591561482151	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 135: TypeError: currentItemPath.match(...) is null
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 56: TypeError: dataBlock is null
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 154: TypeError: MutationObserver.observe: Argument 1 is not an object.
+1591561488117	Marionette	INFO	Stopped listening on port 62207
+1591561719149	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zv/35y47fqx3bq_6np_kscjq3mr0000gn/T/rust_mozprofileligLh4"
+1591561721132	Marionette	INFO	Listening on port 63520
+1591561721216	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 135: TypeError: currentItemPath.match(...) is null
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 154: TypeError: MutationObserver.observe: Argument 1 is not an object.
+1591561852102	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zv/35y47fqx3bq_6np_kscjq3mr0000gn/T/rust_mozprofileVPxLr8"
+1591561854124	Marionette	INFO	Listening on port 64239
+1591561854165	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 135: TypeError: currentItemPath.match(...) is null
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 154: TypeError: MutationObserver.observe: Argument 1 is not an object.
+1591561966705	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 56: TypeError: dataBlock is null
+1591562121090	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1591596799693	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zv/35y47fqx3bq_6np_kscjq3mr0000gn/T/rust_mozprofileKE6SPz"
+1591596802151	Marionette	INFO	Listening on port 52538
+1591596802167	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 135: TypeError: currentItemPath.match(...) is null
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 154: TypeError: MutationObserver.observe: Argument 1 is not an object.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1591596872230	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zv/35y47fqx3bq_6np_kscjq3mr0000gn/T/rust_mozprofile1DCV6R"
+1591596874193	Marionette	INFO	Listening on port 52991
+1591596874295	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 135: TypeError: currentItemPath.match(...) is null
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 154: TypeError: MutationObserver.observe: Argument 1 is not an object.
+1591596904920	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 56: TypeError: dataBlock is null
+1591596916265	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1591596999658	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1591597018998	Marionette	INFO	Stopped listening on port 52991
+1591597191181	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zv/35y47fqx3bq_6np_kscjq3mr0000gn/T/rust_mozprofileUwNw0W"
+1591597193158	Marionette	INFO	Listening on port 54568
+1591597193242	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 135: TypeError: currentItemPath.match(...) is null
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 154: TypeError: MutationObserver.observe: Argument 1 is not an object.
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 56: TypeError: dataBlock is null
+1591597205345	Marionette	INFO	Stopped listening on port 54568
+1591597354408	Marionette	INFO	Stopped listening on port 63520
+1591597356763	Marionette	INFO	Stopped listening on port 61653
+1591597451240	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zv/35y47fqx3bq_6np_kscjq3mr0000gn/T/rust_mozprofiletI0q6z"
+1591597453271	Marionette	INFO	Listening on port 55410
+1591597453312	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 135: TypeError: currentItemPath.match(...) is null
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 154: TypeError: MutationObserver.observe: Argument 1 is not an object.
+1591597545542	Marionette	INFO	Stopped listening on port 55410
+1591597549658	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zv/35y47fqx3bq_6np_kscjq3mr0000gn/T/rust_mozprofileovI5yS"
+1591597551639	Marionette	INFO	Listening on port 55589
+1591597551729	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 135: TypeError: currentItemPath.match(...) is null
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 154: TypeError: MutationObserver.observe: Argument 1 is not an object.
+1591597911159	Marionette	INFO	Stopped listening on port 55589
+1591597924637	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zv/35y47fqx3bq_6np_kscjq3mr0000gn/T/rust_mozprofileyJkNYa"
+1591597926782	Marionette	INFO	Listening on port 55824
+1591597926809	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 135: TypeError: currentItemPath.match(...) is null
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 56: TypeError: dataBlock is null
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 154: TypeError: MutationObserver.observe: Argument 1 is not an object.
+1591597933421	Marionette	INFO	Stopped listening on port 55824
+1591598280979	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zv/35y47fqx3bq_6np_kscjq3mr0000gn/T/rust_mozprofileSdNyxW"
+1591598283237	Marionette	INFO	Listening on port 56159
+1591598283261	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1591598309842	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zv/35y47fqx3bq_6np_kscjq3mr0000gn/T/rust_mozprofiler4WgNs"
+1591598311822	Marionette	INFO	Listening on port 56237
+1591598311909	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 154: TypeError: MutationObserver.observe: Argument 1 is not an object.
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 56: TypeError: dataBlock is null
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 135: TypeError: currentItemPath.match(...) is null
+1591598419851	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zv/35y47fqx3bq_6np_kscjq3mr0000gn/T/rust_mozprofileNf3DaV"
+1591598421807	Marionette	INFO	Listening on port 56437
+1591598421822	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 135: TypeError: currentItemPath.match(...) is null
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 154: TypeError: MutationObserver.observe: Argument 1 is not an object.
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 56: TypeError: dataBlock is null
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1591598535409	Marionette	INFO	Stopped listening on port 56437
+1591598536622	Marionette	INFO	Stopped listening on port 56237
+1591598541998	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zv/35y47fqx3bq_6np_kscjq3mr0000gn/T/rust_mozprofileNTk8yQ"
+1591598544002	Marionette	INFO	Listening on port 56624
+1591598544062	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 135: TypeError: currentItemPath.match(...) is null
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 154: TypeError: MutationObserver.observe: Argument 1 is not an object.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1591598599332	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zv/35y47fqx3bq_6np_kscjq3mr0000gn/T/rust_mozprofileaylRBO"
+1591598601297	Marionette	INFO	Listening on port 56804
+1591598601399	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.mvideo.ru/assets/js/mvid.js?43b99a2a27bb5ca8d58ed00a1083590f, line 6: TypeError: e.find is not a function
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 135: TypeError: currentItemPath.match(...) is null
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 56: TypeError: dataBlock is null
+JavaScript error: https://www.mvideo.ru/ line 6 > scriptElement, line 154: TypeError: MutationObserver.observe: Argument 1 is not an object.
+1591598608727	Marionette	INFO	Stopped listening on port 56804
+1591599117763	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zv/35y47fqx3bq_6np_kscjq3mr0000gn/T/rust_mozprofile7Le3bV"
+1591599119800	Marionette	INFO	Listening on port 57089
+1591599119823	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591599192051	Marionette	INFO	Stopped listening on port 57089
+1591599196479	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zv/35y47fqx3bq_6np_kscjq3mr0000gn/T/rust_mozprofile6VrKGL"
+1591599198439	Marionette	INFO	Listening on port 57282
+1591599198449	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1591601834047	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zv/35y47fqx3bq_6np_kscjq3mr0000gn/T/rust_mozprofileZhJ2os"
+1591601836307	Marionette	INFO	Listening on port 57487
+1591601836326	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591601880462	Marionette	INFO	Stopped listening on port 57487
+1591602252413	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zv/35y47fqx3bq_6np_kscjq3mr0000gn/T/rust_mozprofilemMIAzy"
+1591602254357	Marionette	INFO	Listening on port 57672
+1591602254373	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591602261289	Marionette	INFO	Stopped listening on port 57672
