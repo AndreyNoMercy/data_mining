@@ -36,4 +36,10 @@ class LeroyMerlinItem(scrapy.Item):
     parameters = scrapy.Field(output_processor=get_params)
     picture = scrapy.Field()
 
+class OpenDataItem(scrapy.Item):
+    _id = scrapy.Field()
+    name = scrapy.Field(output_processor=TakeFirst())
+    post_url = scrapy.Field()
+    file = scrapy.Field()
+
 
